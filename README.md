@@ -265,14 +265,6 @@ java -jar application/target/application-1.0.0.jar
 - **Lombok** (Boilerplate reduction)
 - **Maven** (Build tool)
 - **Java 17** (LTS version)
-
-## 📚 Learning Resources
-
-- [Spring Boot Documentation](https://spring.io/projects/spring-boot)
-- [Maven Multi-Module Projects](https://maven.apache.org/guides/mini/guide-multiple-modules.html)
-- [Domain-Driven Design](https://martinfowler.com/tags/domain%20driven%20design.html)
-- [Dependency Inversion Principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
-- 
 ---
 
 ⭐ **Star this repository** if you found it helpful!
